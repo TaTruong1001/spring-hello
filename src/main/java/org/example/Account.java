@@ -21,6 +21,7 @@ public class Account {
         this.ownerName = ownerName;
     }
 
+   //comment
     public double getBalance() {
         return balance;
     }
